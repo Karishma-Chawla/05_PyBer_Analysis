@@ -22,7 +22,7 @@ The line chart clearly demonstrates that Urban cities generate the highest fares
 
 # Summary
 Basis the charts and data analysed from the above data points, I recommend the following to CEO for addressing disparities among the city types
-* Doing a market survey in suburban and rural markets to analyse if there is more scope for growth since the total drivers are disproportionately and each driver in suburban and rural centre is taking far more rides compared to their urban counterparts. 
+* Doing a market survey in suburban and rural markets to analyse if there is more scope for growth since the total drivers are disproportionately high and each driver in suburban and rural centre is taking far more rides compared to their urban counterparts. 
 * Reviewing the pricing policy for Urban centres to determine if just distances resulting in lower average high fares for each ride or there are other factors including promotions or offers. 
 * Adding promotions in the winter month of January especially in rural areas to boost demand.
 
