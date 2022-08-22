@@ -4,6 +4,8 @@ The project is to analyse ride-sharing data with goal to total rides, fares and 
 
 very similar to Uber. I had two datasets: ride data with location, date and fare for every ride, and city data which describes type of city and number of drivers. The goal was to compare quantity and fares of rides in every city type: urban, suburban and rural; 
 
+<img width="942" alt="RIDE SHARING" src="https://user-images.githubusercontent.com/98617082/185946033-5602e335-3c9d-4b0d-b625-c3baa34739bf.png">
+
 ## Results:
 Creating a Dataframe to include Total rides, drivers, Fares ,average fare per ride and per driver for each city tpe has resulted in following insights:
 * The volume of rides in urban cities is much highest followed by suburban and then rural. Volume in Urban cities is 13x of rural and 2.6x of suburban.
