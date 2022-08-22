@@ -1,12 +1,16 @@
-# PyBer analysis
 ## Overview 
-The project is to analyse ride-sharing data with goal to total rides, fares and driver counts different city type: urban, suburban and rural. The analyses had to be presented with charts using matplotlib library to provide recommendation to the CEO for addressing any disparities among the city types.
-
-very similar to Uber. I had two datasets: ride data with location, date and fare for every ride, and city data which describes type of city and number of drivers. The goal was to compare quantity and fares of rides in every city type: urban, suburban and rural; 
+The purpose of the project was to analyze data for a ridesharing company called PyBer to provide recommendation addressing any disparities among the city types.
 
 <img width="942" alt="RIDE SHARING" src="https://user-images.githubusercontent.com/98617082/185946033-5602e335-3c9d-4b0d-b625-c3baa34739bf.png">
 
-## Results:
+
+## Data
+Three CSV files including information on: 1. Ride data with location, date and fare for every ride, and 2. City data which describes type of city and number of drivers and month wise fare. The goal was to compare quantity and fares of rides in every city type: urban, suburban and rural; 
+Size: 125 KB
+
+![image](https://user-images.githubusercontent.com/98617082/185997480-cb67f6aa-d941-4efa-ace8-85d3da45a852.png)
+
+## Results
 Creating a Dataframe to include Total rides, drivers, Fares ,average fare per ride and per driver for each city tpe has resulted in following insights:
 * The volume of rides in urban cities is much highest followed by suburban and then rural. Volume in Urban cities is 13x of rural and 2.6x of suburban.
 * Despite low volume, rural centres generate highest Average fare per ride and Average fare per driver. Average fare per ride in rural centres is 1.4x of Urban cities and Average fare per driver is whooping 3.4x times of urban cities.
